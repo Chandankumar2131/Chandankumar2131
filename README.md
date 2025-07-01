@@ -55,7 +55,7 @@ I build real‑world web apps with the **MERN stack** and learn something new ev
 
 ## 🤝 Connect with Me
 
-- 📧 Email: chandankumar.dev@gmail.com  
+- 📧 Email: chandansinghrkt123@gmail.com
 - 💼 LinkedIn: [Chandan Kumar](https://www.linkedin.com/in/chandan-kumar-19748a228/)  
 - 🖥 GitHub: [@Chandankumar2131](https://github.com/Chandankumar2131)
 
