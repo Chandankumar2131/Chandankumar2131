@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Chandan Kumar (aka AUSH) 🚀
 
-<!--
-**Chandankumar2131/Chandankumar2131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | MERN Stack Enthusiast | JavaScript Lover  
+🎓 Trained at Ducat India | Building real-world apps
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 [CourseCraft](https://course-craft-sable.vercel.app/) – React learning platform
+- 🧳 [Tours App](https://tours-app-eight.vercel.app/) – Browse and remove tours
+- 🎮 [Pokémon App](https://pokemon-app-smoky-theta.vercel.app/) – Fetch & explore Pokémon from API
+
+## 🧰 Tech Stack
+React • JavaScript • HTML • CSS • Node.js • Express • MongoDB • Git & GitHub • Vercel
+
+## 📈 GitHub Stats
+![Chandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chandankumar2131&show_icons=true&theme=radical)
+
+## 📫 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/chandan-kumar-19748a228/)
