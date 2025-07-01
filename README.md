@@ -1,21 +1,23 @@
-<h1 align="center">Hey there, I'm Chandan Kumar 👋</h1>
-<h3 align="center">aka AUSH — Full Stack Developer | React Lover | MERN Stack Builder</h3>
+<h1 align="center">Hey there, I'm Chandan Kumar 👋</h1>
+<h3 align="center">aka AUSH — Full Stack Developer || MERN Stack Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=16F7FC&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;React+%2F+Node+%2F+MongoDB+Enthusiast;Building+real-world+projects+daily!" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=16F7FC&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;React%2FNode%2FMongoDB+Enthusiast;Building+projects+daily!"
+    alt="typing-svg"
+  />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me
 
-Hi, I'm **Chandan Kumar**, a passionate self-taught full stack developer from India 🇮🇳.  
-I build real-world web applications using the **MERN Stack**, with a strong focus on **React**, **JavaScript**, and **API integration**.  
-I love turning ideas into code and learning something new every day!
+Hi, I'm **Chandan Kumar**, a passionate self‑taught full‑stack developer from India 🇮🇳.  
+I build real‑world web apps with the **MERN stack** and learn something new every day.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,34 +32,33 @@ I love turning ideas into code and learning something new every day!
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects
 
 | Project | Description | Live Demo |
-|--------|-------------|-----------|
-| **🎓 CourseCraft** | A modern React learning app with course listings and error handling | [View Project](https://course-craft-sable.vercel.app/) |
-| **🧳 Tours App** | Interactive tour list app with remove functionality | [View Project](https://tours-app-eight.vercel.app/) |
-| **🎮 Pokémon App** | Fetch and display Pokémon using the PokeAPI | [View Project](https://pokemon-app-smoky-theta.vercel.app/) |
+|---------|-------------|-----------|
+| **🎓 CourseCraft** | Modern React learning platform | [course‑craft‑sable.vercel.app](https://course-craft-sable.vercel.app/) |
+| **🧳 Tours App**   | Interactive tour list with remove & refresh | [tours‑app‑eight.vercel.app](https://tours-app-eight.vercel.app/) |
+| **🎮 Pokémon App** | Explore Pokémon via PokeAPI | [pokemon‑app‑smoky‑theta.vercel.app](https://pokemon-app-smoky-theta.vercel.app/) |
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandankumar2131&show_icons=true&theme=radical" alt="Chandan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandankumar2131&show_icons=true&theme=radical" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandankumar2131&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandankumar2131&theme=radical" />
 </p>
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Connect with Me
 
-- 📧 Email: chandankumar.dev@gmail.com  
-- 💼 LinkedIn: [Chandan Kumar](https://www.linkedin.com/in/chandan-kumar-19748a228/)
-- 🌐 GitHub: [@Chandankumar2131](https://github.com/Chandankumar2131)
+- 📧 Email: chandankumar.dev@gmail.com  
+- 💼 LinkedIn: [Chandan Kumar](https://www.linkedin.com/in/chandan-kumar-19748a228/)  
+- 🖥 GitHub: [@Chandankumar2131](https://github.com/Chandankumar2131)
 
 ---
 
-<p align="center">Thanks for visiting my profile! 😊</p>
+<p align="center">Thanks for visiting! 😊</p>
