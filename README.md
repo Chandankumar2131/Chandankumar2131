@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Chandan Kumar 👋</h1>
-<h3 align="center">aka AUSH — Full Stack Developer || MERN Stack Builder</h3>
+<h3 align="center">aka AUSH — Full Stack Developer &nbsp;|&nbsp; MERN Stack Builder</h3>
 
 <p align="center">
   <img
@@ -9,6 +9,7 @@
 </p>
 
 ---
+
 
 ## 🧠 About Me
 
